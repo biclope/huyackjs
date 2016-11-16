@@ -7,7 +7,7 @@ framework for Zayebis applications.
 # Usage
 
 ```javascript
-let huack = new Huyack();
+let huyack = new Huyack();
 
-huyak.huyack('и в проадакшен');
+huyack.huyack('и в продакшен');
 ```
